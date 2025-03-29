@@ -2,7 +2,6 @@
 
 # NAME: POOJASRI.L
 # REG.NO: 212223220076
-# DEPT: B.TECH(IT)
 
 
 ## Aim:
